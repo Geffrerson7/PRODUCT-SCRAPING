@@ -173,4 +173,19 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+#Excel file
+*.xlsx
+*.xls
+
+/gef-1-12
+/gef-13-24
+/gef-25-36
+/gef-37-39
+/Gefferson
+/imagenes
+/imagenes-encontradas
+/imagenes-finales
+/total-img
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python
